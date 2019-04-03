@@ -1,0 +1,36 @@
+#head {
+    background-color: blue;
+    padding: 70px 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    word-spacing: 70px;
+}
+
+#whole {
+    background-color: black;
+    color:white
+}
+
+#laptop {
+    align-content: right;
+    text-align: right;
+}
+
+#right {
+    display:inline-block;
+    position: absolute;
+    right: 20px;
+    margin: 30px;
+}
+
+#footer {
+    margin:5px;
+    background-color:grey;
+    display:inline-block;
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+    bottom:0px;
+}
+
